@@ -37,6 +37,7 @@ The application has 3 user roles: student, teacher, and admin. Each role has acc
   <li>HTML</li>
   <li>CSS</li>
   <li>MySQL</li>
+  
   <li>Hibernate</li>
   <li>Maven</li>
 </ul>
